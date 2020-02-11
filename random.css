@@ -112,7 +112,17 @@ background-size: cover;
 
 
 
+/* footer  */
 
+.footer
+{
+    background-color:#b5bdd0;
+}
+.item1, .item2, .item3
+{
+  font-size:30px;
+  
+}
 
 
 
@@ -127,7 +137,7 @@ background-size: cover;
 
     
     .main-hd{
-        font-size:32px;
+        font-size:30px;
         
     }
 
@@ -161,6 +171,13 @@ background-size: cover;
     {
         font-size:14px;
     }
+
+    .item1, .item2, .item3
+{
+  font-size:20px;
+  
+}
+
 }
 
 
